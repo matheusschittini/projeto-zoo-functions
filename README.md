@@ -1,29 +1,8 @@
-
-## Boas vindas ao repositório do projeto de ES6 e Higher Order Functions!
-
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! 
-
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
-
----
-
-## Habilidades
-
-Neste projeto, verificamos se você é capaz de:
-
-- Produzir código legível, conciso e expressivo utilizando as novas funcionalidades do ES6;
-- Utilizar as _Higher Order Functions_ para manipular e criar arrays;
-- Escolher a _Higher Order Function_ mais adequada para a obtenção de um resultado esperado;
-- Aprender a usar de forma conjunta as _Higher Order Functions_;
-- Interpretar testes unitários e produzir soluções que atendam a eles.
-
----
-
-## Sumário
+## Sumário do projeto
 
 - [Boas vindas ao repositório do projeto de ES6 e Higher Order Functions!](#boas-vindas-ao-repositório-do-projeto-de-es6-e-higher-order-functions)
-- [Habilidades](#habilidades)
 - [Sumário](#sumário)
+- [Habilidades](#habilidades)
 - [Entregáveis](#entregáveis)
   - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
@@ -48,6 +27,18 @@ Neste projeto, verificamos se você é capaz de:
   - [Revisando um Pull Request](#revisando-um-pull-request)
   - [Avaliação do projeto](#avaliação-do-projeto)
   - [Ordem dos requisitos no avaliador automático](#ordem-dos-requisitos-no-avaliador-automático)
+
+---
+
+## Habilidades
+
+Neste projeto, verificamos se você é capaz de:
+
+- Produzir código legível, conciso e expressivo utilizando as novas funcionalidades do ES6;
+- Utilizar as _Higher Order Functions_ para manipular e criar arrays;
+- Escolher a _Higher Order Function_ mais adequada para a obtenção de um resultado esperado;
+- Aprender a usar de forma conjunta as _Higher Order Functions_;
+- Interpretar testes unitários e produzir soluções que atendam a eles.
 
 ---
 
