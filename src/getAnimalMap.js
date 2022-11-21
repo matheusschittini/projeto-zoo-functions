@@ -12,7 +12,7 @@ function getSpeciesForLocation(location) {
   return arrayAnimalNames;
 }
 
-// Verifica se a opção includeNames está especificada no parâmetro da função principal
+// Função que verifica se a opção includeNames está especificada no parâmetro da função principal
 function verifyIncludeNames(parameter) {
   const arrayKeys = Object.keys(parameter);
   const array = [];
@@ -36,7 +36,7 @@ function createGeneralLocation() {
   };
 }
 
-// Função que retorna os nomes dos animais por área, levando em conta a possibilidade de ordenação desses nomes
+// Função que retorna os nomes dos animais por área, levando em conta a possibilidade de ordenação alfabética desses nomes
 function getAnimalNames(location, sort) {
   let object = {};
   let animalArray = [];
@@ -74,13 +74,13 @@ function getAnimalNameBySex(location, sex, sort) {
   return arrayResult;
 }
 
-// Função que analisa se o sexo é especificado ou não
+// Função que analisa se o sexo é especificado ou não como parâmetro
 function getAnimalNameByRegionSex(location, sex, sort) {
   if (!sex) return getAnimalNames(location, sort);
   return getAnimalNameBySex(location, sex, sort);
 }
 
-// Função que gera a localização geral dos animaos levando em conta o sexo e a ordenação de seus nomes
+// Função que gera a localização geral dos animais, levando em conta o sexo e a ordenação alfabética de seus nomes
 function createGeneralLocation2(sex, sort) {
   return {
     NE: getAnimalNameByRegionSex('NE', sex, sort),
