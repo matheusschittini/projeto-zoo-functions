@@ -90,7 +90,7 @@ function createGeneralLocation2(sex, sort) {
   };
 }
 
-// Função geral
+// Função principal
 function getAnimalMap(options) {
   if (!options) return createGeneralLocation();
   if (typeof (options) === 'object') {
