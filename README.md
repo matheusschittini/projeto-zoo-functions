@@ -1,16 +1,5 @@
 
-
-Neste projeto, verificamos se você é capaz de:
-
-- Produzir código legível, conciso e expressivo utilizando as novas funcionalidades do ES6;
-- Utilizar as _Higher Order Functions_ para manipular e criar arrays;
-- Escolher a _Higher Order Function_ mais adequada para a obtenção de um resultado esperado;
-- Aprender a usar de forma conjunta as _Higher Order Functions_;
-- Interpretar testes unitários e produzir soluções que atendam a eles.
-- Você deverá implementar as funções que estão na pasta `src`. Para ver o retorno que a função deverá ter, leia o arquivo de testes referente a ela. Lembre-se de aplicar as novas funcionalidades do ES6 como arrow functions, template literals, spread operator, parâmetro rest, object destructuring, entre outras. Utilize também as _Higher Order Functions_.
-
----
-
+Esse projeto foi desenvolvido por mim para a finalização do 1° módulo (Introdução ao Desenvolvimento Web) do curso Trybe, em março de 2022. Nele, apliquei todos os conhecimentos adquiridos até o momento, mas principalmente a criação/manipulação de arrays por meio das High Order Functions (muitas vezes utilizadas em conjunto) e a interpretação de testes unitários, produzindo soluções que atendessem a eles. As novas utilidades do ES6 também foram utilizadas, como arrow functions, template literals, spread operator, object destructuring, etc.
 
 ## Requisitos do projeto
 
@@ -319,5 +308,3 @@ Você pode ler mais sobre a [função construtora **Error**, neste link.](https:
 - Se o objeto de opções tiver a propriedade id, retorna somente a pessoa correspondente;
 - Sem parâmetros, retorna uma lista com a cobertura de todas as pessoas funcionárias;
 - Caso não haja nenhuma pessoa com o nome ou id especificados deverá ser lançado um error.
-
----
