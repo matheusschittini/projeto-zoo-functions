@@ -1,4 +1,4 @@
-  Este projeto foi desenvolvido por mim para a finalização do 1° módulo (Introdução ao Desenvolvimento Web) do curso Trybe, em março de 2022. Nele, apliquei todos os conhecimentos adquiridos até o momento, mas principalmente a criação/manipulação de arrays por meio das High Order Functions (muitas vezes utilizadas em conjunto) e a interpretação de testes unitários, produzindo soluções que atendessem a eles. As novas utilidades do ES6 também foram utilizadas, como arrow functions, template literals, spread operator, object destructuring, etc.
+  Este projeto foi desenvolvido por mim para a finalização do 1° módulo (Introdução ao Desenvolvimento Web) do curso Trybe, em março de 2022. Nele, apliquei todos os conhecimentos adquiridos até o momento, mas principalmente a criação/manipulação de arrays por meio das High Order Functions (muitas vezes utilizadas em conjunto) e a interpretação de testes unitários, produzindo soluções que atendessem a eles. As novas utilidades do ES6 também foram aplicadas, como arrow functions, template literals, spread operator, object destructuring, etc.
 
 ## Requisitos do projeto
 
