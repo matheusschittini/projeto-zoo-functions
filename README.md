@@ -7,19 +7,12 @@ Neste projeto, verificamos se você é capaz de:
 - Escolher a _Higher Order Function_ mais adequada para a obtenção de um resultado esperado;
 - Aprender a usar de forma conjunta as _Higher Order Functions_;
 - Interpretar testes unitários e produzir soluções que atendam a eles.
+- Você deverá implementar as funções que estão na pasta `src`. Para ver o retorno que a função deverá ter, leia o arquivo de testes referente a ela. Lembre-se de aplicar as novas funcionalidades do ES6 como arrow functions, template literals, spread operator, parâmetro rest, object destructuring, entre outras. Utilize também as _Higher Order Functions_.
 
 ---
 
 
 ## Requisitos do projeto
-
-Você deverá implementar as funções que estão na pasta `src`. Para ver o retorno que a função deverá ter, leia o arquivo de testes referente a ela. Lembre-se de aplicar as novas funcionalidades do ES6 como arrow functions, template literals, spread operator, parâmetro rest, object destructuring, entre outras. Utilize também as _Higher Order Functions_.
-
-**Dica**: uma importante soft-skill é saber como gerenciar seu tempo. Os exercícios não estão ordenados por ordem de complexidade e uns são mais desafiadores que os outros. Caso tenha dificuldade em algum deles, pule-o, resolva outro, e, quando se sentir confortável, volte ao exercício em questão. A ideia é não ficar preso a um problema por um longo período. Realizar outros exercícios pode te ajudar a enxergar e/ou aprender novas maneiras de se chegar ao resultado esperado.
-
-Antes de começar, analise o arquivo `data/zoo_data.js`, para ver os dados que serão usados.
-
----
 
 ### 1. Implemente a função `getSpeciesByIds`
 
@@ -326,15 +319,5 @@ Você pode ler mais sobre a [função construtora **Error**, neste link.](https:
 - Se o objeto de opções tiver a propriedade id, retorna somente a pessoa correspondente;
 - Sem parâmetros, retorna uma lista com a cobertura de todas as pessoas funcionárias;
 - Caso não haja nenhuma pessoa com o nome ou id especificados deverá ser lançado um error.
-
----
-
-## Avisos Finais
-
-### Revisando um Pull Request
-
-À medida que você e as outras pessoas que estudam na Trybe forem entregando os projetos, vocês receberão um alerta via Slack para também fazer a revisão dos Pull Requests dos seus colegas. Fiquem atentos às mensagens do "Pull Reminders" no Slack!
-
-Use o material que você já viu sobre [Code Review](https://app.betrybe.com/course/real-life-engineer/code-review) para te ajudar a revisar os projetos que chegaram para você.
 
 ---
